@@ -10,4 +10,12 @@ An electronic equipment inventory that tracks the status of a specific electroni
 - [**Maintenance History**](https://github.com/JakePatolilic/vsulib-ms/blob/main/Maintenance%20History): Have the provision so that that user will be able to see the past activities and be able to print the reports from specific activities.
 
 ## Revisions
+| Revison Date             | Document Version           | Tracking Notes | Approved By |
+|--------------------------|----------------------------|----------------|-------------|
+|                          |                            |                |             | 
+|                          |                            |                |             |
+|                          |                            |                |             |
+|                          |                            |                |             |
+|                          |                            |                |             |
+|                          |                            |                |             |
 
