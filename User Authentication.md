@@ -1,3 +1,4 @@
+# User Authentication
 ## Input
 - The user shall provide the system with the necessary information to use the software.
 
