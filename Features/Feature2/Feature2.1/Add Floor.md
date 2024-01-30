@@ -1,5 +1,5 @@
 # Manage Inventory
-## Create Floor
+## Add Floor
 ### Input
 - The library staff admin shall create all of the floors in the library.
 ### Process
