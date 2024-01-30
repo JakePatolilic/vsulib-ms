@@ -9,3 +9,5 @@ An electronic equipment inventory that tracks the status of a specific electroni
 ): Have the provision so that the user will be able to set a date when the equipment will undergo maintenance
 - [**Maintenance History**](https://github.com/JakePatolilic/vsulib-ms/blob/main/Maintenance%20History): Have the provision so that that user will be able to see the past activities and be able to print the reports from specific activities.
 
+## Revisions
+
