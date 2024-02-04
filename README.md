@@ -9,6 +9,9 @@ An electronic equipment inventory that tracks the status of a specific electroni
 - [**Maintenance Plan Scheduling**](https://github.com/JakePatolilic/vsulib-ms/blob/main/Features/Maintenance%20Plan%20Scheduling/Maintenance%20Date%20Schedule.md): Have the provision so that the user will be able to set a date when the equipment will undergo maintenance
 - [**Maintenance History**](https://github.com/JakePatolilic/vsulib-ms/blob/main/Features/Maintenance%20History/Functions/Detailed%20Functions.md): Have the provision so that that user will be able to see the past activities and be able to print the reports from specific activities.
 
+## Scope and Limitations of the Project
+
+
 ## Revisions
 | Revison Date             | Document Version           | Tracking Notes | Approved By |
 |--------------------------|----------------------------|----------------|-------------|
