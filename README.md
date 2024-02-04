@@ -3,7 +3,7 @@ An electronic equipment inventory that tracks the status of a specific electroni
 
 
 ## Features
-- [**User Authentication**](https://github.com/JakePatolilic/vsulib-ms/blob/main/Features/User%Authentication/User%20Authentication.md): Capability to identify different users for different roles.
+- [**User Authentication**](https://github.com/JakePatolilic/vsulib-ms/blob/main/Features/User*Authentication/User%20Authentication.md): Capability to identify different users for different roles.
 - [**Manage Inventory**](https://github.com/JakePatolilic/vsulib-ms/blob/main/Features/Feature2/Manage%20Inventory.md): Have the provision so that the admin can organize all of the electronic equipment inside the library.
 - [**Equipment Inspection**](https://github.com/JakePatolilic/vsulib-ms/blob/main/Features/Feature3/Equipment%20Inspection.md): Have the capability to record the status of the equipment after inspecting it.
 - [**Maintenance Plan Scheduling**](https://github.com/JakePatolilic/vsulib-ms/blob/main/Features/Feature4/Maintenance%20Plan%20Scheduling.md): Have the provision so that the user will be able to set a date when the equipment will undergo maintenance
