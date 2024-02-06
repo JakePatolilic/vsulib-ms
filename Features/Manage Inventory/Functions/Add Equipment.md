@@ -1,5 +1,5 @@
+## Manage Inventory Feature Preview
 ![AddEquipment](https://github.com/JakePatolilic/vsulib-ms/assets/114040840/3de43472-86df-4401-b2af-7ea424892172)
-# Manage Inventory
 ## Add Equipment
 This is used to record all of the electronic equipment found inside the areas.
 ### Input
