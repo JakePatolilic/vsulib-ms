@@ -1,5 +1,5 @@
+## Manage Inventory Feature Preview
 ![AddArea](https://github.com/JakePatolilic/vsulib-ms/assets/114040840/1f913f72-52d5-4c41-82d9-d4f18c34cfd7)
-# Manage Inventory
 ## Add Area
 This is used to create the areas inside that specific floor.
 ### Input
