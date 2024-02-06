@@ -13,7 +13,7 @@ This is used to record all of the electronic equipment found inside the areas.
 -	The library staff admin confirms the creation of the equipment.
 ### Output 
 -	The equipment will be organized in the inventory.
--	### Data Dictionary
+### Data Dictionary
 [***View here***](https://github.com/JakePatolilic/vsulib-ms/blob/main/Features/Manage%20Inventory/Functions/Data%20Dictionary.md)
 
 
