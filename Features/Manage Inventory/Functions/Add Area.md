@@ -12,5 +12,5 @@ This is used to create the areas inside that specific floor.
 ### Output 
 -	The information of the areas will be saved in the inventory.
 ### Data Dictionary
-
+[***View here***]
 
