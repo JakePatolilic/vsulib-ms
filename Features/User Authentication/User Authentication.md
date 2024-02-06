@@ -1,4 +1,5 @@
 # User Authentication
+This is used by the library staff assigned to this activity in order to enter the data of the registered user so they can use the system.
 ## Input
 - The user shall provide the system with the necessary information to use the software.
 
