@@ -1,3 +1,4 @@
+![AddFloor](https://github.com/JakePatolilic/vsulib-ms/assets/114040840/6e9e1d26-aca8-441a-a391-00a7a8b300cc)
 # Manage Inventory
 ## Add Floor
 This is used to add the number of floors in the library.
