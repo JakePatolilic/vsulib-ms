@@ -1,3 +1,4 @@
+![Inspection](https://github.com/JakePatolilic/vsulib-ms/assets/114040840/2bf3c26e-ac47-4d70-9e5b-7e300d00f2ea)
 # Equipment Inspection
 ## Manage Equipment Status
 This is used by the library staff assigned to this activity in order to record the condition of the equipment.
