@@ -1,5 +1,6 @@
 # Manage Inventory
 ## Add Floor
+This is used to add the number of floors in the library.
 ### Input
 - The library staff admin shall create all of the floors in the library.
 ### Process
