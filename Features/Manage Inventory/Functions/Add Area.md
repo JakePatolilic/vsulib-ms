@@ -1,5 +1,6 @@
 # Manage Inventory
 ## Add Area
+This is used to create the areas inside that specific floor.
 ### Input
 -	The library staff admin shall create all the areas that contain electronic equipment inside that specific floor.
 ### Process
