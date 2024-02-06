@@ -12,5 +12,5 @@ This is used by the library staff assigned to this activity in order to display,
 ### Output
 -	The system will generate a maintenance report depending on what was chosen by the user.
 ### Data Dictionary
-[***View here***](https://github.com/JakePatolilic/vsulib-ms/blob/main/Features/Manage%20Inventory/Functions/Data%20Dictionary.md)
+[***View here***](https://github.com/JakePatolilic/vsulib-ms/blob/main/Features/Maintenance%20History/Functions/Data%20Dictionary.md)
 
