@@ -1,4 +1,5 @@
-# Maintenance History
+## Maintenance History Feature Preview
+![GenerateReport](https://github.com/JakePatolilic/vsulib-ms/assets/114040840/ec93d7e6-5768-495f-b7db-d69a321cf89a)
 ## Generate Maintenance Report
 This is used by the library staff assigned to this activity in order to display, and print the history of equipment maintenance.
 ### Input
