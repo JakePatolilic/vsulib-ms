@@ -11,4 +11,5 @@ This is used to add the number of floors in the library.
 -	The system will display all the created floors.
 ### Output 
 - The information of the floors will be saved in the inventory.
-
+### Data Dictionary
+[***View here***](https://github.com/JakePatolilic/vsulib-ms/blob/main/Features/Manage%20Inventory/Functions/Data%20Dictionary.md)
