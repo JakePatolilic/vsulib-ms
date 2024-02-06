@@ -11,5 +11,6 @@ This is used to create the areas inside that specific floor.
 -	The library staff admin confirms the creation of the area.
 ### Output 
 -	The information of the areas will be saved in the inventory.
+### Data Dictionary
 
 
