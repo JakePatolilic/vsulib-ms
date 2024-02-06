@@ -9,3 +9,5 @@ This is used to search the specific maintenance activity.
 -	The system will display all of the equipment with that name.
 ### Ouput
 -	The activity will be found by the user.
+### Data Dictionary
+[***View here***](https://github.com/JakePatolilic/vsulib-ms/blob/main/Features/Maintenance%20History/Functions/Data%20Dictionary.md)
