@@ -1,5 +1,6 @@
 # Manage Inventory
 ## Add Equipment
+This is used to record all of the electronic equipment found inside the areas.
 ### Input
 -	The library staff admin shall add all of the equipment found in that specific area.
 ### Process
