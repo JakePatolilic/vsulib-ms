@@ -1,3 +1,4 @@
+![LoginPage](https://github.com/JakePatolilic/vsulib-ms/assets/114040840/e2a4742f-facc-4106-bbdc-a2a6b1a6d24f)
 # User Authentication
 This is used by the library staff assigned to this activity in order to enter the data of the registered user so they can use the system.
 ## Input
