@@ -41,3 +41,5 @@ This is used by the library staff assigned to this activity in order to record t
 | ConfirmationMessage      | Status Updated!       | Text             | String    |           |                      |
 | OkButton                 | Ok                    | Button           | Button    |           |                      |
 
+## Preview
+[[/interfaceImages/Inspection.png]]
