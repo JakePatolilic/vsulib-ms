@@ -1,5 +1,6 @@
 # Maintenance History
 ## Generate Maintenance Report
+This is used by the library staff assigned to this activity in order to display, and print the history of equipment maintenance.
 ### Input
 
 - The library staff user shall generate the summary of the maintenance on that specific equipment.
