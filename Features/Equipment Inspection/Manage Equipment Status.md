@@ -42,4 +42,4 @@ This is used by the library staff assigned to this activity in order to record t
 | OkButton                 | Ok                    | Button           | Button    |           |                      |
 
 ## Preview
-[[/interfaceImages/Inspection.png]]
+<img src="interfaceImages/Inspection.png">
