@@ -12,14 +12,5 @@ An electronic equipment inventory that tracks the status of a specific electroni
 ## Scope and Limitations
 
 
-## Revisions
-| Revison Date             | Document Version           | Tracking Notes | Approved By |
-|--------------------------|----------------------------|----------------|-------------|
-|                          |                            |                |             | 
-|                          |                            |                |             |
-|                          |                            |                |             |
-|                          |                            |                |             |
-|                          |                            |                |             |
-|                          |                            |                |             |
 
 
