@@ -1,3 +1,4 @@
+![History](https://github.com/JakePatolilic/vsulib-ms/assets/114040840/0d66443c-a1dd-4427-abc2-e11d38688d44)
 # Maintenance History
 ## Search History
 This is used to search the specific maintenance activity.
